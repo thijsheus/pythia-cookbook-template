@@ -1,6 +1,6 @@
-<img src="notebooks/images/saillogo.png" alt="thumbnail" width="300"/>
 
-# Research Project
+
+# Your Research Project Title
 
 ## Group Members
 
@@ -16,6 +16,6 @@ Introduction..
 
 ## Hypothesis (or Hypotheses)
 
-## Datasets
+## Methods
 
 ## Summary
